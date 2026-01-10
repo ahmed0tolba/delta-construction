@@ -72,7 +72,7 @@ nav.scrolled {
     .nav-container {
         justify-content: center;
         flex-direction: column;
-        gap: 1.5rem;
+        gap: 0rem;
         padding: 1rem 2rem;
     }
     

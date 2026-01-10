@@ -78,7 +78,7 @@
         }
 
         html[dir="rtl"] .lang-btn {
-        margin-right: 20px;
+        margin-right: 0px;
         margin-left: 0;
         }
 
