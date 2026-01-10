@@ -758,6 +758,7 @@ section {
     position: relative;
     width: 400px;
     height: 400px;
+    max-width: 80%;
     animation: rotate-slow 30s linear infinite;
 }
 
