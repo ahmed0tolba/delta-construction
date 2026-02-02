@@ -5,9 +5,8 @@ git branch -M main
 git remote add origin https://github.com/ahmed0tolba/delta-construction.git
 git push -u origin main
 
-https://ahmed0tolba.github.io/educational_instatute/
+https://ahmed0tolba.github.io/mega-construction/
 
-git add *
-git add index.html language_menu.js
+git add style.css index.html language_menu.js
 git commit 
 git push --force origin main
